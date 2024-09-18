@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769478239005",
+    "project_id": "restaurant-rating-app-8d2af",
+    "storage_bucket": "restaurant-rating-app-8d2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769478239005:android:f89db86ce50ff0ead8f7f4",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffFk3DWYfvRNCpUOVansBHiBXGcpbV5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
