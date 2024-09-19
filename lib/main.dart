@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:restaurant_rating_app/src%20Kopie/features/feature1/presentation/RestaruantFilter_screen.dart';
 
 import 'package:restaurant_rating_app/src%20Kopie/features/feature1/presentation/RestaurantListPage_screen.dart';
 
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Firestore Realtime Listener",
-      home: RestaurantListPage(),
+      home: RestaurantFilterScreen(),
     );
   }
 }
